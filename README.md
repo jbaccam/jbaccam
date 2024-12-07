@@ -5,7 +5,7 @@
 <h2 align="center">A Little About Me...</h2>
 
 <p align="center">
-- 🔭 I recently just finished CyPlan<br><br>
+- 🔭 I recently just finished <a href="https://www.cy-plan.com/" target="_blank">CyPlan</a><br><br>
 - 🌱 I’m currently learning React<br><br>
 - 🤝 I’m focused on studying hard for finals.<br><br>
 - 💬 Ask me about anything!<br><br>
