@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-<h5 align="center">🌐Socials</h5>
+<h5 align="center">🌐 Socials</h5>
 
 <div align="center">
   <a href="https://www.linkedin.com/feed/" target="_blank">
@@ -37,12 +37,16 @@
   </a>
 </div>
 
+<h2 align="center"></h2>
+
 <div align="center">
-  <img height="400" src="https://s7.gifyu.com/images/SJmsV.gif"  />
+  <img height="400" src="https://s7.gifyu.com/images/SJmsV.gif" alt="Motorcycle GIF" />
 </div>
+
+<h2 align="center"></h2>
 
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Readme Quote" />
   </a>
 </div>
