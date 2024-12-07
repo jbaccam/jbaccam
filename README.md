@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-<h5 align="center">🌐 Socials</h5>
+<h3 align="center">🌐 Socials</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/feed/" target="_blank">
