@@ -5,12 +5,12 @@
 <h2 align="center">A Little About Me...</h2>
 
 <p align="center">
-- 🔭 I recently just finished <a href="https://www.cy-plan.com/" target="_blank">CyPlan</a><br><br>
-- 🌱 I’m currently learning React<br><br>
-- 🤝 I’m focused on studying hard for finals.<br><br>
-- 💬 Ask me about anything!<br><br>
-- 📫 Reach me at jjaybaccam@gmail.com or on LinkedIn<br><br>
-- 👨‍🍳 I love cooking and motorcycles! 🏍️
+  🔭 I recently just finished <a href="https://www.cy-plan.com/" target="_blank">CyPlan</a> 🔭<br><br> 
+  🌱 I’m currently learning React 🌱<br><br>
+  🤝 I’m focused on studying hard for finals. 🤝<br><br> 
+  💬 Ask me about anything! 💬<br><br> 
+  📫 Reach me at jjaybaccam@gmail.com or on LinkedIn 📫<br><br> 
+  👨‍🍳 I love cooking and motorcycles! 🏍️
 </p>
 
 <h2 align="center">I code with</h2>
