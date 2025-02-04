@@ -7,7 +7,7 @@
 <p align="center">
   🔭 I recently just finished <a href="https://www.cy-plan.com/" target="_blank">CyPlan</a> 🔭<br><br> 
   🌱 I’m currently learning React 🌱<br><br>
-  🤝 I’m focused on studying hard for finals. 🤝<br><br> 
+  🤝 I’m grinding leetcode 🤝<br><br> 
   💬 Ask me about anything! 💬<br><br> 
   📫 Reach me at jjaybaccam@gmail.com or on LinkedIn 📫<br><br> 
   👨‍🍳 I love cooking and motorcycles! 🏍️
